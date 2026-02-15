@@ -45,14 +45,13 @@ Visualizations include histograms, scatter plots, and correlation heatmaps.
 - Model trained using Scikit-learn  
 
 ---
+<img width="1436" height="525" alt="image" src="https://github.com/user-attachments/assets/ec05116e-a87d-44f9-b4e4-e45d3b229c60" />
+<img width="1471" height="722" alt="image" src="https://github.com/user-attachments/assets/9db4a785-92ad-4d5b-a299-66ba9244dc3c" />
+<img width="1465" height="697" alt="image" src="https://github.com/user-attachments/assets/5342f41f-da19-424e-ae71-737e0b4026a6" />
+<img width="1193" height="743" alt="image" src="https://github.com/user-attachments/assets/022cdc85-b66e-4f8e-a568-980a6321794f" />
+<img width="1173" height="777" alt="image" src="https://github.com/user-attachments/assets/a38d8cb8-5b9b-4c74-99f1-64a1422ce160" />
 
-## ▶ How to Run the Project
 
-1. Clone the repository  
-```bash<img width="1920" height="1080" alt="Screenshot 2026-02-15 140856" src="https://github.com/user-attachments/assets/e745fc65-7060-4572-ab76-1bcf7d5608e9" />
 
-git clon<img width="1174" height="778" alt="Screenshot 2026-02-15 140845" src="https://github.com/user-attachments/assets/ca0c3fb3-05eb-4b1e-ac30-aa9fabe91694" />
-<img width="1194" height="744" alt="Screenshot 2026-02-15 140827" src="https://github.com/user-attachments/assets/2fbb5cc3-b36d-4f0d-92ca-30e3dfa9bcc1" />
 
-e https://github.com/your-username/salary-prediction.git
-cd salary-prediction
+
